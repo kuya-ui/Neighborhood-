@@ -24,6 +24,6 @@ kuyamaxmillan@gmail.com
 
 ### License
 
-[MIT Licence](https://choosealicense.com/licenses/mit/)
+This project is [MIT](LICENCE.md) licensed.
 
 Copyright (c) 2021 Maxmillan Inc.
