@@ -1,6 +1,7 @@
 from django.shortcuts import render
 from django.contrib.auth.decorators import login_required
-# from .forms import *
+from .forms import *
+from .models import Neighbourhood, Profile
 from django.views import generic
 
 # Create your views here.
