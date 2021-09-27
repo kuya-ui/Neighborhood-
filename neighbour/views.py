@@ -7,7 +7,7 @@ from django.views import generic
 # Create your views here.
 
 def home(request):
-    return render(request, '')
+    return render(request, 'home')
 
 @login_required(login_url='/accounts/login/')
 def home(request):
